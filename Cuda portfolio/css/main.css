@@ -1,0 +1,291 @@
+body{
+	background-color:;
+}
+.halma1{
+	width: 75%;
+	height: 300px;
+	background-color:#87509c;
+	margin: 0 auto;
+}
+header ul{
+
+	padding: 0px;
+	float: right;
+}
+header ul li{
+	list-style: none;
+	display: inline;
+	padding: 10px 15px;
+	color: #fff;
+}
+.halma1 h1{
+	color: #fff;
+
+	margin-left: 40px;
+}
+.halma1 p{
+	text-align: center;
+	color: #fff;
+	padding: 20px;
+		margin-top: 100px;
+	font-size: 18px;
+}
+.halma1 a{
+	background-color: #eb7d4b;
+	display: block;
+	padding: 15px 20px;
+	text-decoration: none;
+	color: #fff;
+	margin: 20px auto;
+	max-width: 120px;
+	border-radius: 5px;
+}
+.halma2{
+	width: 75%;
+	height: 500px;
+	background-color:#17c2a4;
+	margin: 0 auto;
+	text-align: center;
+	color: #fff;
+
+}
+hr{
+	width: 80px;
+	height: 15px;
+	color: #14a58c;
+}
+.one{
+	width: 200px;
+	height: 270px;
+	background-color:;
+	float: left;
+	margin-left: 30px;
+}
+.two{
+	width: 200px;
+	height: 270px;
+	background-color:;
+	float: left;
+	margin-left: 30px;
+}
+.three{
+	width: 200px;
+	height: 270px;
+	background-color:;
+	float: left;
+	margin-left: 30px;
+}
+.four{
+	width: 220px;
+	height: 270px;
+	background-color:;
+	float: left;
+	margin-left: 30px;
+}
+.halma3{
+	width: 75%;
+	height: 500px;
+	background-color:#e7f1f8;
+	margin: 0 auto;
+	text-align: center;
+	color: #3c4761;
+	padding: 20px;
+}
+.five{
+	width: 200px;
+	height: 270px;
+	background-color:yellow;
+	float: left;
+	margin-left: 30px;
+}
+.six{
+	width: 200px;
+	height: 270px;
+	background-color:black;
+	float: left;
+	margin-left: 30px;
+}
+.seven{
+	width: 200px;
+	height: 270px;
+	background-color:green;
+	float: left;
+	margin-left: 30px;
+}
+.eight{
+	width: 220px;
+	height: 270px;
+	background-color:orange;
+	float: left;
+	margin-left: 30px;
+}
+.halma4{
+	width: 75%;
+	height: 450px;
+	background-color:#ffffff;
+	margin: 0 auto;
+	text-align: center;
+	color: #3c4761;
+	padding: 20px;
+}
+.nine{
+	width: 200px;
+	height: 270px;
+	background-color:;
+	float: left;
+	margin-left: 30px;
+}
+.ten{
+	width: 200px;
+	height: 270px;
+	background-color:;
+	float: left;
+	margin-left: 30px;
+}
+.eleven{
+	width: 200px;
+	height: 270px;
+	background-color:;
+	float: left;
+	margin-left: 30px;
+}
+.twelve{
+	width: 200px;
+	height: 270px;
+	background-color:;
+	float: left;
+	margin-left: 30px;
+}
+.halma5{
+	width: 75%;
+	height: 750px;
+	background-color:#ffdd99;
+	margin: 0 auto;
+	text-align: center;
+	color: #3c4761;
+	padding: 20px;
+}
+.halma5 header ul{
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+}
+.halma5 header ul li{
+	list-style: none;
+	display: inline;
+	padding: 10px 15px;
+	margin: 0px;
+	color:#3c4761;
+}
+.thirteen{
+	width: 440px;
+	height: 230px;
+	background-color:;
+	margin-bottom: 10px;
+	margin-top: 25px;
+	float: left;
+	margin-left: 30px;
+}
+.fourteen{
+	width: 440px;
+	height: 230px;
+	background-color:;
+	float: left;
+	margin-top: 7px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+}
+.fifteen{
+	width: 440px;
+	height: 230px;
+	background-color:;
+	float: left;
+	margin-top: 7px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+}
+.sixteen{
+	width: 440px;
+	height: 230px;
+	background-color:;
+	float: left;
+	margin-top: 7px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+}
+.halma5 button {
+	background-color: #17c2a4;
+	display: block;
+	padding: 15px 20px;
+	text-decoration: none;
+	color: #fff;
+	height: 70px;
+	margin: 20px auto;
+	max-width: 180px;
+	border-radius: 5px;
+}
+.halma5 button a{
+	text-decoration: none;
+	color: #fff;
+}
+.halma6{
+	width: 75%;
+	height: 700px;
+	background-color:#d74680;
+	margin: 0 auto;
+	text-align: center;
+	color: #fff;
+	padding: 20px;
+}
+img{
+	margin-top: 40px;
+	padding-left: 0px;
+	float: left;
+}
+.seventeen{
+	width: 440px;
+	height: 250px;
+	background-color:;
+	margin-bottom: 10px;
+	float: left;
+	margin-left: 30px;
+}
+.eighteen{
+	width: 440px;
+	height: 250px;
+	background-color:;
+	float: left;
+	margin-bottom: 10px;
+	margin-left: 30px;
+}
+.nineteen{
+	width: 440px;
+	height: 250px;
+	background-color:;
+	float: left;
+	margin-bottom: 20px;
+	margin-left: 30px;
+}
+.twenty{
+	width: 440px;
+	height: 250px;
+	background-color:;
+	float: left;
+	margin-bottom: 20px;
+	margin-left: 30px;
+}
+h5{
+	color: #fac996;
+}
+.halma7{
+	width: 75%;
+	height: 200px;
+	background-color:#3c5499;
+	margin: 0 auto;
+}
+.halma8{
+	width: 75%;
+	height: 100px;
+	background-color:#344b8e;
+	margin: 0 auto;
+}
